@@ -4,5 +4,7 @@ class Main {
     Animals: Create a class called “Animals” and create two instances from it. Use two variables with the names of “lion” and “tiger”.
     */
       Animals animal = new Animals();
+      System.out.println(animal.tiger);
+        
     }
 }
